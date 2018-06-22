@@ -28,6 +28,8 @@ public class IfUnique {
                         longestSubstring = s.substring(startPointer, endPointer);
                     }
                     startPointer = endPointer;
+                    //i m adding to test
+                    String abcd = "1234";
                     break;
                 }
             }
